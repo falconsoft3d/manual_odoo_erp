@@ -1,1 +1,1 @@
-# manual_odoo_erp
+# Manual Odoo ERP
